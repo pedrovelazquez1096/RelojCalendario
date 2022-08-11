@@ -1,0 +1,7 @@
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\bin\Debug\InternetConnectionCheckEx.exe.config
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\bin\Debug\InternetConnectionCheckEx.exe
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\bin\Debug\InternetConnectionCheckEx.pdb
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\obj\Debug\InternetConnectionCheckEx.csprojAssemblyReference.cache
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\obj\Debug\InternetConnectionCheckEx.csproj.CoreCompileInputs.cache
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\obj\Debug\InternetConnectionCheckEx.exe
+D:\Dropbox\Hoobies\RelojCalendario\Visual Studio\InternetConnectionCheckEx\InternetConnectionCheckEx\obj\Debug\InternetConnectionCheckEx.pdb

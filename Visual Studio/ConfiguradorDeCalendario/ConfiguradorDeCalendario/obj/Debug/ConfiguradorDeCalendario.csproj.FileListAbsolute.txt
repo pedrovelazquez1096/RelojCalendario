@@ -1,0 +1,10 @@
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\bin\Debug\ConfiguradorDeCalendario.exe.config
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\bin\Debug\ConfiguradorDeCalendario.exe
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\bin\Debug\ConfiguradorDeCalendario.pdb
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.csprojAssemblyReference.cache
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.Form1.resources
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.Properties.Resources.resources
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.csproj.GenerateResource.cache
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.csproj.CoreCompileInputs.cache
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.exe
+D:\Dropbox\Hoobies\RelojCalendario\ConfiguradorDeCalendario\ConfiguradorDeCalendario\obj\Debug\ConfiguradorDeCalendario.pdb
